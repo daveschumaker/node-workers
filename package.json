@@ -1,0 +1,19 @@
+{
+  "name": "node-workers",
+  "version": "1.0.0",
+  "description": "Example project to experiment with node worker threads",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "workers",
+    "worker threads",
+    "parallel"
+  ],
+  "author": "Dave Schumaker <dave@dave.ly>",
+  "license": "MIT",
+  "dependencies": {
+    "app-root-path": "^3.0.0"
+  }
+}
